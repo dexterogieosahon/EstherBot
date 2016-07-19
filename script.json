@@ -1,9 +1,5 @@
 {
-    "MENU": "Please choose the number to learn about Nick
-    1)Education 2) Experience 3) Product 4) Design ",
-    "1": "Hey, Nick is a smart guy with 2 degrees",
-    "2": "Nick has great startup experience with WeBeam and Techustler",
-    "3": "Awh, shucks! I love you too!",
+    "MENU": "Please choose the number to learn about Nick",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
